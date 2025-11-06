@@ -9,8 +9,3 @@ variable "id4" {
   default     = "0000"
 }
 
-variable "id4" {
-  description = "4 digit id used for artifact/image tagging - test PR"
-  type        = string
-  default     = "0000"
-}
